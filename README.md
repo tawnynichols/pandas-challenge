@@ -1,2 +1,2 @@
 # pandas-challenge
-This is for submitting Panda homework
+This is for submitting Pandas homework
